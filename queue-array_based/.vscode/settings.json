@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "stack.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "queue.h": "c"
+    }
+}
